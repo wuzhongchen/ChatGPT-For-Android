@@ -7,7 +7,7 @@ Chat Fit Android是一个基于安卓原生编写的APP, for [chat.openai.com](h
 ## Screenshot
 
 <div align="center">
-<img src="./docs/assets/Screenshot_Pixel6pro.png" width="300"  />
+<img src="./docs/assets/Screenshot_Pixel6pro.jpg" width="300"  />
 </div>
 
 ## 加入群聊
